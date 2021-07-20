@@ -16,7 +16,7 @@ dependencies:
   - shapely
   - osmnx
   - pyrosm
-  - openrouteservice
+  #- openrouteservice
   - geopandas
   - spaghetti
   - pip:
