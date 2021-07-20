@@ -12,10 +12,7 @@ dependencies:
   - scikit-learn
   - numpy
   - pandas
-  - networkx=2.2
-  - graph-tool=2.27
-  - cairo>=1.14
-    - pycairo
+  - networkx
   - pip:
     - powerlaw
     - python-louvain
