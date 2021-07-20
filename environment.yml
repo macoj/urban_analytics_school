@@ -16,9 +16,10 @@ dependencies:
   - shapely
   - osmnx
   - pyrosm
-  #- openrouteservice
   - geopandas
   - spaghetti
   - pip:
     - powerlaw
+    - openrouteservice
+    - scikit-mobility 
     - python-louvain
