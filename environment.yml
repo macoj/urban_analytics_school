@@ -13,6 +13,7 @@ dependencies:
   - numpy
   - pandas
   - networkx
+  - shapely
   - pip:
     - powerlaw
     - python-louvain
