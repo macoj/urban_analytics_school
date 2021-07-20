@@ -1,0 +1,21 @@
+
+name: urban_analytics_2021
+channels:
+  - defaults
+  - conda-forge
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - python=3.6
+  - pygobject
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - pandas
+  - networkx
+  - graph-tool=2.27
+  - cairo>=1.14
+    - pycairo
+  - pip:
+    - powerlaw
+    - python-louvain
