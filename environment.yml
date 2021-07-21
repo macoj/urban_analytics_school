@@ -18,8 +18,9 @@ dependencies:
   - pyrosm
   - geopandas
   - spaghetti
+  - seaborn
   - pip:
     - powerlaw
     - openrouteservice
-    - scikit-mobility 
+    - scikit-mobility
     - python-louvain
