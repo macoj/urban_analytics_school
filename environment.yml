@@ -19,8 +19,11 @@ dependencies:
   - geopandas
   - spaghetti
   - seaborn
+  - nltk
   - pip:
     - powerlaw
     - openrouteservice
     - scikit-mobility
     - python-louvain
+    - vaderSentiment
+    - twitter
