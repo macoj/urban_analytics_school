@@ -27,3 +27,4 @@ dependencies:
     - python-louvain
     - vaderSentiment
     - twitter
+    - openpyxl
